@@ -2,6 +2,10 @@
 
 A Python script to generate square PNG icons of specified sizes, background colors, and three rows of customizable text using a custom font. Ideal for creating custom icons for applications, websites, or projects.
 
+| 24x24 | 48x48 | 128x128 | 256x256 | 512x512 |
+|-------|-------|---------|---------|---------|
+| ![Icon 24x24](icon24.png) | ![Icon 48x48](icon48.png) | ![Icon 128x128](icon128.png) | ![Icon 256x256](icon256.png) | ![Icon 512x512](icon512.png) |
+
 ## Features
 
 - **Custom Sizes**: Generate icons of any square dimensions.
@@ -256,6 +260,15 @@ If you get an error like `ModuleNotFoundError: No module named 'PIL'`:
 ### Text Not Displaying
 
 - **Check Display Settings**: Ensure that `text_row_X_display` is set to "y" for rows you want to display.
+
+---
+## Keywords
+
+Python icon generator
+Custom square icons
+Open-source icon script
+Python script for custom icons
+Create icons for applications
 
 ---
 
