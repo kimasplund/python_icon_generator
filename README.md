@@ -264,11 +264,11 @@ If you get an error like `ModuleNotFoundError: No module named 'PIL'`:
 ---
 ## Keywords
 
-Python icon generator
-Custom square icons
-Open-source icon script
-Python script for custom icons
-Create icons for applications
+- Python icon generator
+- Custom square icons
+- Open-source icon script
+- Python script for custom icons
+- Create icons for applications
 
 ---
 
